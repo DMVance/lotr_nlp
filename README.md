@@ -2,7 +2,13 @@
 Natural Language Processing with the text of J.R.R. Tolkien's The Lord of the Rings and The Hobbit, with analysis.  A deep exploration using machine learning and artificial intelligence. A new way to experience the old classics.
 
 # Table of Contents
-* 
+* Dataset
+* Data Analysis and Visualizations
+* Interactive Features
+* Technologies Used
+* Screenshots
+* Limitations and Future Improvements
+* Citations
 
 # Dataset
 
@@ -20,7 +26,17 @@ Natural Language Processing with the text of J.R.R. Tolkien's The Lord of the Ri
 * 
 
 # Technologies Used (with rationale)
-* 
+* Python
+* Flask
+* Machine Learning / Natural Language Processing / Sentiment Analysis tools:
+* Natural Language Toolkit (NLTK), scikit-learn, NRCLex, VADER
+* pandas
+* Plotly, Matplotlib, D3
+* HTML, CSS, Jinja
+* Python, JavaScript
+* Flask
+* Heroku
+* Jupyter Notebook
 
 # Screenshots
 
