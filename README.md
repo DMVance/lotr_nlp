@@ -27,14 +27,14 @@ Natural Language Processing with the text of J.R.R. Tolkien's The Lord of the Ri
 
 # Technologies Used (with rationale)
 * Python
+* pandas
 * Flask
 * Machine Learning / Natural Language Processing / Sentiment Analysis tools:
 * Natural Language Toolkit (NLTK), scikit-learn, NRCLex, VADER
-* pandas
+* TensorFlow, Keras
 * Plotly, Matplotlib, D3
 * HTML, CSS, Jinja
-* Python, JavaScript
-* Flask
+* JavaScript
 * Heroku
 * Jupyter Notebook
 * Pipenv virtual environment
