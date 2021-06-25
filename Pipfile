@@ -5,6 +5,10 @@ name = "pypi"
 
 [packages]
 jupyterlab = "*"
+pypdf2 = "*"
+scipy = "*"
+keras = "*"
+tensorflow = "*"
 
 [dev-packages]
 
