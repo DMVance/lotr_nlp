@@ -4,11 +4,8 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-jupyterlab = "*"
-pypdf2 = "*"
-scipy = "*"
-keras = "*"
-tensorflow = "*"
+fpdf2 = "*"
+pillow = "*"
 
 [dev-packages]
 
