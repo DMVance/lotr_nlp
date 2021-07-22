@@ -25,7 +25,7 @@ Natural Language Processing with the text of J.R.R. Tolkien's The Lord of the Ri
 * Audio - record voice and translate into action with animations
 * 
 
-# Technologies Used (with rationale)
+# Technologies Used
 * Python
 * pandas
 * Flask
