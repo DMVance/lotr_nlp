@@ -6,6 +6,13 @@ name = "pypi"
 [packages]
 fpdf2 = "*"
 pillow = "*"
+setuptools = "*"
+wheel = "*"
+spacy = "*"
+pandas = "*"
+scikit-learn = "*"
+plotly = "*"
+flask = "*"
 
 [dev-packages]
 
